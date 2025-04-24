@@ -54,8 +54,8 @@ lib/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/flutter-webrtc-video-call.git
-cd flutter-webrtc-video-call
+git clone https://github.com/MohamedOsama26/block
+cd block
 ```
 
 2. **Install dependencies:**
